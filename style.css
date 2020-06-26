@@ -1,0 +1,94 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+body{
+    background-color: #30343A;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.container{
+    
+    margin: 70px auto;
+    max-width: 90%;
+}
+
+.img-dog{
+    width: 40%;
+    float: left;
+}
+img{
+  
+    width: 800px;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+  
+}
+.form{
+    float: left;
+    background-color: #4A887E;
+    width: 60%;
+    border-radius: 10px;
+    height: 800px;
+   
+}
+h1{
+    text-align: center;
+    padding-top: 80px;
+}
+form{
+    text-align: center;
+    box-sizing: border-box;
+    padding-top: 40px;
+    
+    
+}
+input{
+    padding: 20px;
+    border: none;
+    border-radius: 5px;
+    background-color:#BDB9BA;
+    margin:10px;
+    opacity: 0.5;
+    width: 30%;
+    
+}
+#Email{
+  width: 62.5%;
+}
+#Register{
+    width: 62.5%;
+}
+#Google{
+    width: 62.5%;
+    color: #FF0000;
+    font-weight: bold;
+    
+}
+#Facebook{
+    width: 62.5%;
+    color: #0000CD;
+    font-weight: bold;
+}
+p{
+
+    text-align: center;
+}
+#Forgot{
+    padding-top: 40px;
+
+}
+#Forgot:hover{
+    color: #BDB9BA;
+    
+}
+#Login{
+    padding-top: 10px;
+}
+#Login:hover{
+    color: #BDB9BA;
+}
+a{
+    text-decoration: none;
+    color:#000000;
+}
